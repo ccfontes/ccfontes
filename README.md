@@ -1,7 +1,5 @@
 # Experience
 
-## Comfortable
-
 <div align='center'>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/clojure/clojure-ar21.svg" alt="Clojure"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"/></a>
