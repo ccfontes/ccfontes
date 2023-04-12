@@ -2,11 +2,11 @@
 
 image:https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg[Clojure, width=40, link=https://clojure.org]
 image:https://freesvg.org/img/clojurescript_logo.png[ClojureScript, width=40, link=https://clojurescript.org]
-image:https://www.svgrepo.com/download/373675/idris.svg[Idris, width=42, link=https://www.idris-lang.org]
+image:https://www.svgrepo.com/download/373675/idris.svg[Idris, width=44, link=https://www.idris-lang.org]
 image:https://raw.githubusercontent.com/babashka/babashka/9365a24eed286b64134d74478df69d975746a287/logo/babashka_red.svg[Babashka, width=57, link=https://babashka.org]
 image:https://raw.githubusercontent.com/reagent-project/reagent/a14faba55e373000f8f93edfcfce0d1222f7e71a/logo/logo.svg[Reagent, width=40, link=https://reagent-project.github.io]
 image:https://cdn.freebiesupply.com/logos/thumbs/2x/github-octocat-logo.png[GitHub, width=57, link=https://github.com]
 image:https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/openfaas.svg[OpenFaaS, width=42, link=https://www.openfaas.com]
 image:https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256418/file-type-asciidoc-icon-md.png[AsciiDoc, width=45, link=https://asciidoctor.org]
-image:https://www.vectorlogo.zone/logos/docker/docker-ar21.svg[Docker, width=150, link=https://www.docker.com]
+image:https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png[Docker, width=46, link=https://www.docker.com]
 
