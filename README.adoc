@@ -6,6 +6,6 @@ image:https://www.svgrepo.com/download/373675/idris.svg[Idris, width=42, link=ht
 image:https://raw.githubusercontent.com/babashka/babashka/9365a24eed286b64134d74478df69d975746a287/logo/babashka_red.svg[Babashka, width=57, link=https://babashka.org]
 image:https://raw.githubusercontent.com/reagent-project/reagent/a14faba55e373000f8f93edfcfce0d1222f7e71a/logo/logo.svg[Reagent, width=40, link=https://reagent-project.github.io]
 image:https://cdn.freebiesupply.com/logos/thumbs/2x/github-octocat-logo.png[GitHub, width=57, link=https://github.com]
-image:https://www.pngrepo.com/download/353426/asciidoctor.png[AsciiDoc, width=40, link=https://asciidoctor.org]
 image:https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/openfaas.svg[OpenFaaS, width=42, link=https://www.openfaas.com]
 image:https://www.vectorlogo.zone/logos/docker/docker-ar21.svg[Docker, width=150, link=https://www.docker.com]
+image:https://www.pngrepo.com/download/353426/asciidoctor.png[AsciiDoc, width=40, link=https://asciidoctor.org]
