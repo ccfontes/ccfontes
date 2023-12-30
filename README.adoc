@@ -9,3 +9,4 @@ image:https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/openf
 image:https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256418/file-type-asciidoc-icon-md.png[AsciiDoc, width=45, link=https://asciidoctor.org]
 image:https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png[Docker, width=46, link=https://www.docker.com]
 
+image::https://github-readme-stats.vercel.app/api?username=ccfontes&show_icons=true&theme=transparent&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage[Public contribution stats]
