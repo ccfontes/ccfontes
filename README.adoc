@@ -1,4 +1,4 @@
-== Passionate about ==
+=== Passionate about
 
 image:https://raw.githubusercontent.com/babashka/babashka/9365a24eed286b64134d74478df69d975746a287/logo/babashka_red.svg[Babashka, width=57, link=https://babashka.org]
 image:https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg[Clojure, width=40, link=https://clojure.org]
@@ -9,4 +9,8 @@ image:https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/openf
 image:https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256418/file-type-asciidoc-icon-md.png[AsciiDoc, width=45, link=https://asciidoctor.org]
 image:https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png[Docker, width=46, link=https://www.docker.com]
 
+=== Stats
+
 image::https://github-readme-stats.vercel.app/api?username=ccfontes&show_icons=true&theme=transparent&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage[Public contribution stats]
+
+image::https://streak-stats.demolab.com/?user=ccfontes&theme=dark[GitHub Streak, link="https://git.io/streak-stats"]
