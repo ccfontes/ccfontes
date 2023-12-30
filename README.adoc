@@ -14,3 +14,5 @@ image:https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png[Dock
 image::https://github-readme-stats.vercel.app/api?username=ccfontes&show_icons=true&theme=transparent&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage[Public contribution stats]
 
 image::https://streak-stats.demolab.com/?user=ccfontes&theme=dark[GitHub Streak, link="https://git.io/streak-stats"]
+
+image::https://github-profile-trophy.vercel.app/?username=ccfontes&theme=onedark[trophy, link="https://github.com/ryo-ma/github-profile-trophy"]
