@@ -15,4 +15,9 @@ image::https://github-readme-stats.vercel.app/api?username=ccfontes&show_icons=t
 
 image::https://streak-stats.demolab.com/?user=ccfontes&theme=dark[GitHub Streak, link="https://git.io/streak-stats"]
 
+image::http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ccfontes&theme=dracula[Profile Details]
+
+image:http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ccfontes&theme=dracula[Repos Per Language]
+image:http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ccfontes&theme=dracula[Most Commit Language]
+
 image::https://github-profile-trophy.vercel.app/?username=ccfontes&theme=onedark[trophy, link="https://github.com/ryo-ma/github-profile-trophy"]
