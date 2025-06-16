@@ -9,15 +9,38 @@ image:https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/openf
 image:https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256418/file-type-asciidoc-icon-md.png[AsciiDoc, width=45, link=https://asciidoctor.org]
 image:https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png[Docker, width=46, link=https://www.docker.com]
 
-=== Stats
+=== Hacker on a mission
 
-image::https://github-readme-stats.vercel.app/api?username=ccfontes&show_icons=true&theme=transparent&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage[Public contribution stats]
+Hacker on a mission at Fleck, building AI replicas to unravel authentic human connection.
 
-image::https://streak-stats.demolab.com/?user=ccfontes&theme=dark[GitHub Streak, link="https://git.io/streak-stats"]
+=== Bootstrapper
 
-image::http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ccfontes&theme=dracula[Profile Details]
+Not a stranger to ground zero development, I have bootstrapped products like https://fleck.chat[Fleck], https://mailbriefly.com[MailBriefly], https://github.com/reusle[Reusle], Heriti, and https://github.com/kanasubs[Kanasubs].
 
-image:http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ccfontes&theme=dracula[Repos Per Language]
-image:http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ccfontes&theme=dracula[Most Commit Language]
+=== Functional Programming
 
-image::https://github-profile-trophy.vercel.app/?username=ccfontes&theme=onedark[trophy, link="https://github.com/ryo-ma/github-profile-trophy"]
+With over a decade of functional programming experience with Clojure, my coding focuses on practical simplicity.
+
+I use Reagent for all my frontend work, leveraging ClojureScript’s regular functions, Hiccup syntax, and atoms to make UI logic minimal, composable, and state management intuitive.
+
+=== Serverless
+
+I'm experienced in designing and implementing serverless, event-driven data pipelines with AWS and OpenFaaS.
+
+My foundation in functional programming makes it natural to build serverless architectures by composing small, stateless functions that are easy to test, scale, and maintain.
+
+=== Developer experience
+
+I care about developer experience, which led to projects like the https://github.com/ccfontes/eg[eg] test library and OpenFaaS templates such as https://github.com/ccfontes/faas-bb[faas-bb].
+
+=== A world citizen
+
+My background spans organizations of all sizes and cultures, shaped while living and working in Japan, UK, Poland, and Portugal.
+
+I'm influenced by the work of Frederic Laloux on https://www.reinventingorganizations.com[Reinventing Organizations] to structure organizations that are sustainable at scale.
+
+=== Empathetic and unconventional
+
+Keen instinct for knowing when people need help very early on, preventing them from running into trouble.
+
+I challenge norms deliberately, picking my battles where complexity or convention hides something harmful.
