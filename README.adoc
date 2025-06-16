@@ -13,9 +13,11 @@ image:https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png[Dock
 
 Hacker on a mission at Fleck, building AI replicas to unravel authentic human connection.
 
-=== Bootstrapper
+=== Builder
 
 Not a stranger to ground zero development, I have bootstrapped products like https://fleck.chat[Fleck], https://mailbriefly.com[MailBriefly], https://github.com/reusle[Reusle], Heriti, and https://github.com/kanasubs[Kanasubs].
+
+I feel a strong sense of achievement when I can see the direct impact of my own efforts.
 
 === Functional Programming
 
